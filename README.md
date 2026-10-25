@@ -8,11 +8,23 @@
 
 | 플랫폼 | 다운로드 |
 |---|---|
-| 🤖 Android | [APK 다운로드 (v1.0.2 Preview)](https://github.com/nonDeveloper0/Splendy-releases/releases/download/v1.0.2-preview.1/splendy-android.apk) |
+| 🤖 Android | [APK 다운로드 (v1.0.3 Preview)](https://github.com/nonDeveloper0/Splendy-releases/releases/download/v1.0.3-preview.1/splendy-android.apk) |
 | 🍎 iOS | 준비 중 |
 | 🌐 Web | [웹에서 플레이하기](https://splendy.pjwater727.workers.dev) |
 
 📦 [전체 버전 및 업데이트 내역](https://github.com/nonDeveloper0/Splendy-releases/releases)
+
+## ✨ 1.0.3 업데이트
+
+- **업데이트 안내:** Android 앱 실행 시 새 버전이 있으면 **다운로드 / 나중에** 팝업을 표시합니다.
+- **게임 중 설정:** 상단 톱니바퀴 버튼에서 음량(0~100%)과 진동 세기(약·보통·강)를 조절할 수 있습니다. 설정은 저장되며, 창을 닫으면 게임을 계속 진행합니다.
+- **UI 개선:** 하늘색 다이아몬드 재화 아이콘, 입체감 있는 버튼과 그림자, 상점 테마 미리보기 개선을 적용했습니다.
+- **감정 표현:** Microsoft Fluent 3D 이모티콘을 적용했습니다.
+- **튜토리얼:** 선택할 영역만 밝게 표시하고 나머지 영역의 입력을 차단합니다.
+
+업데이트 안내 기능은 **1.0.3을 먼저 설치한 후부터** 사용할 수 있습니다. 1.0.2 이하 사용자는 위 APK 링크로 직접 업데이트해 주세요. 1.0.3 설치 후에는 더 높은 버전이 게시되면 앱에서 안내합니다.
+
+위 변경 사항은 Android 1.0.3 기준입니다. 웹 버전의 반영 시점은 다를 수 있습니다.
 
 ## 📱 설치 방법
 
@@ -23,6 +35,8 @@
 3. 설치 권한을 요청하면 허용한 후 설치를 진행합니다.
 
 현재는 테스트 버전으로 배포 중이며, 정식 배포는 준비 중입니다.
+
+기존 설치와 같은 서명 인증서를 사용하므로 앱을 삭제하지 않고 업데이트할 수 있습니다. 다운로드한 APK를 열고 Android의 설치 안내를 따라 주세요.
 
 **iPhone / iPad**
 
