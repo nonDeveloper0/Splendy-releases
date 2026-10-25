@@ -8,11 +8,24 @@
 
 | 플랫폼 | 다운로드 |
 |---|---|
-| 🤖 Android | [APK 다운로드 (v1.0.3 Preview)](https://github.com/nonDeveloper0/Splendy-releases/releases/download/v1.0.3-preview.1/splendy-android.apk) |
+| 🤖 Android | [APK 다운로드 (v1.0.4 Preview)](https://github.com/nonDeveloper0/Splendy-releases/releases/download/v1.0.4-preview.1/splendy-android.apk) |
 | 🍎 iOS | 준비 중 |
 | 🌐 Web | [웹에서 플레이하기](https://splendy.pjwater727.workers.dev) |
 
 📦 [전체 버전 및 업데이트 내역](https://github.com/nonDeveloper0/Splendy-releases/releases)
+
+## 🧪 1.0.4 업데이트 연결 테스트
+
+1.0.4는 **1.0.3에서 업데이트 안내와 APK 다운로드 연결을 확인하기 위한 배포**입니다. 기능은 1.0.3과 같습니다.
+
+1. 1.0.3이 설치된 상태에서 앱을 완전히 종료하고 다시 실행합니다.
+2. 업데이트 팝업에서 **다운로드**를 누릅니다.
+3. 브라우저에서 APK 다운로드가 시작되는지 확인한 후 설치합니다.
+4. 1.0.4를 다시 실행했을 때 같은 업데이트 안내가 뜨지 않으면 완료입니다.
+
+**나중에**도 시험하려면 1.0.4 설치 전에 먼저 눌러 보세요. 앱을 계속 사용할 수 있고, 앱을 완전히 종료한 뒤 다시 실행하면 업데이트를 다시 안내합니다. 홈 화면으로 나갔다가 돌아오는 것만으로는 업데이트를 다시 확인하지 않습니다.
+
+테스트 시작용 [1.0.3 APK](https://github.com/nonDeveloper0/Splendy-releases/releases/download/v1.0.3-preview.1/splendy-android.apk)도 유지합니다. 1.0.4를 이미 설치했다면 1.0.3을 유지 중인 다른 기기에서 테스트해 주세요.
 
 ## ✨ 1.0.3 업데이트
 
